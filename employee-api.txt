@@ -1,0 +1,3 @@
+GET /employees
+POST /employees
+DELETE /employees
