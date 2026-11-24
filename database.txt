@@ -1,0 +1,3 @@
+Database: PostgreSQL
+Port: 5432
+Database: employee_management
